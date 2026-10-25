@@ -1,0 +1,37 @@
+{
+  "property": {
+    "address": "1766 Crestridge Cir",
+    "city": "Princeton",
+    "state": "TX",
+    "zip": "75407",
+    "county": "Collin County",
+    "subdivision": "Princeton Lakeside Estates",
+    "property_type": "Single Family Residence",
+    "year_built": 2023,
+    "building_sqft": 2982,
+    "hoa": "No HOA / No MUD / No PID",
+    "school_district": "Princeton ISD"
+  },
+  "sources": {
+    "collincad": {
+      "name": "Collin Central Appraisal District (CAD)",
+      "url": "https://esearch.collincad.org/",
+      "notes": "Official tax appraisal, certified assessed values, and exemptions"
+    },
+    "realtor": {
+      "name": "Realtor.com / Quantarium AVM",
+      "url": "https://www.realtor.com/realestateandhomes-detail/1766-Crestridge-Cir_Princeton_TX_75407_M89849-01257",
+      "notes": "Automated valuation model (Quantarium)"
+    },
+    "zillow": {
+      "name": "Zillow Zestimate",
+      "url": "https://www.zillow.com/homes/1766-Crestridge-Cir-Princeton,-TX-75407_rb/",
+      "notes": "Zestimate and local Princeton market index"
+    },
+    "redfin": {
+      "name": "Redfin Estimate",
+      "url": "https://www.redfin.com",
+      "notes": "Neighborhood comps and market pulse"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+date,source,estimate_value,low_range,high_range,price_per_sqft,notes
+2024-01-15,Collin CAD Assessment,540000,540000,540000,181.09,2024 Tax appraisal baseline
+2024-06-01,Realtor.com (Quantarium),565000,530000,600000,189.47,Mid-2024 market valuation
+2025-01-10,Collin CAD Assessment,575000,575000,575000,192.82,2025 Tax appraisal baseline
+2025-07-20,Zillow Zestimate,592000,560000,625000,198.52,Summer 2025 market trend
+2026-01-15,Collin CAD Assessment,595000,595000,595000,199.53,2026 Preliminary assessed value
+2026-10-20,Realtor.com (Quantarium),603804,568000,673000,202.48,Current baseline AVM estimate
+2026-10-20,Market Consensus (Average),605000,565000,675000,202.88,Blended current market valuation
